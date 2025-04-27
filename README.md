@@ -1,4 +1,4 @@
-# 🥇 #1 Kaggle Competition: Credit Card Fraud Detection
+# 🥇 #1st Place Submission Kaggle Competition: Credit Card Fraud Detection
 
 This project builds a machine learning model to detect fraudulent transactions, winning **1st place** in a Kaggle competition.  
 The solution uses custom feature engineering and a high-performance **CatBoostClassifier** to achieve top results.
